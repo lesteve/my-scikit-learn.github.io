@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.910209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.873203Z",
+      "mimetype": null,
+      "name": "plot_cost_complexity_pruning.ipynb",
+      "path": "auto_examples/tree/plot_cost_complexity_pruning.ipynb",
+      "size": 7532,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.911209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.873203Z",
+      "mimetype": null,
+      "name": "plot_iris_dtc.ipynb",
+      "path": "auto_examples/tree/plot_iris_dtc.ipynb",
+      "size": 4918,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.911209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.874203Z",
+      "mimetype": null,
+      "name": "plot_tree_regression.ipynb",
+      "path": "auto_examples/tree/plot_tree_regression.ipynb",
+      "size": 8399,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.912209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.875203Z",
+      "mimetype": null,
+      "name": "plot_unveil_tree_structure.ipynb",
+      "path": "auto_examples/tree/plot_unveil_tree_structure.ipynb",
+      "size": 12611,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-01-10T10:28:49.912209Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-01-10T10:28:49.912209Z",
+  "mimetype": null,
+  "name": "tree",
+  "path": "auto_examples/tree",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

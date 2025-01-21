@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.799209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.705203Z",
+      "mimetype": null,
+      "name": "plot_calibration.ipynb",
+      "path": "auto_examples/calibration/plot_calibration.ipynb",
+      "size": 7166,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.799209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.706203Z",
+      "mimetype": null,
+      "name": "plot_calibration_curve.ipynb",
+      "path": "auto_examples/calibration/plot_calibration_curve.ipynb",
+      "size": 15088,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.800209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.707203Z",
+      "mimetype": null,
+      "name": "plot_calibration_multiclass.ipynb",
+      "path": "auto_examples/calibration/plot_calibration_multiclass.ipynb",
+      "size": 12800,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.800209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.708203Z",
+      "mimetype": null,
+      "name": "plot_compare_calibration.ipynb",
+      "path": "auto_examples/calibration/plot_compare_calibration.ipynb",
+      "size": 14434,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-01-10T10:28:49.800209Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-01-10T10:28:49.800209Z",
+  "mimetype": null,
+  "name": "calibration",
+  "path": "auto_examples/calibration",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

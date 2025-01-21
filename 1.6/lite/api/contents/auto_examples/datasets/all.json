@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.820209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.736203Z",
+      "mimetype": null,
+      "name": "plot_random_multilabel_dataset.ipynb",
+      "path": "auto_examples/datasets/plot_random_multilabel_dataset.ipynb",
+      "size": 4860,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-01-10T10:28:49.820209Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-01-10T10:28:49.820209Z",
+  "mimetype": null,
+  "name": "datasets",
+  "path": "auto_examples/datasets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

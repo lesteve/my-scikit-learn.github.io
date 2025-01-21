@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-01-10T10:28:49.838209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-01-10T10:28:45.761203Z",
+      "mimetype": null,
+      "name": "plot_frozen_examples.ipynb",
+      "path": "auto_examples/frozen/plot_frozen_examples.ipynb",
+      "size": 6612,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-01-10T10:28:49.838209Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-01-10T10:28:49.838209Z",
+  "mimetype": null,
+  "name": "frozen",
+  "path": "auto_examples/frozen",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
