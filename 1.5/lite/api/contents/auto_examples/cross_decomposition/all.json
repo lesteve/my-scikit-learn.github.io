@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-17T21:30:54.963684Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-17T21:30:51.247693Z",
+      "mimetype": null,
+      "name": "plot_compare_cross_decomposition.ipynb",
+      "path": "auto_examples/cross_decomposition/plot_compare_cross_decomposition.ipynb",
+      "size": 7769,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-17T21:30:54.963684Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-17T21:30:51.247693Z",
+      "mimetype": null,
+      "name": "plot_pcr_vs_pls.ipynb",
+      "path": "auto_examples/cross_decomposition/plot_pcr_vs_pls.ipynb",
+      "size": 9653,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-17T21:30:54.963684Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-10-17T21:30:54.963684Z",
+  "mimetype": null,
+  "name": "cross_decomposition",
+  "path": "auto_examples/cross_decomposition",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
